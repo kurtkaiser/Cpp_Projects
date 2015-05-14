@@ -1,3 +1,14 @@
+//C++ Derived Class Program
+/* Instructions:
+Create a “base class” that contains two protected variables and three public functions (input,
+calculate, and output). The “base class” inputs required data and calculates area for the
+rectangle.
+Create a “derived class” that contains one protected variable and three public functions (input,
+calculate, and output). The” derived class” MUST use the length and width data values in the
+“base class” to calculate the volume of the cube.
+Write a “main()” function that demonstrates the use of the classes and their functions.
+*/
+
 #include <iostream>
 using namespace std;
 
