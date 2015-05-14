@@ -22,7 +22,7 @@ class Rectangle
 		{
 			/*Using the "this" pointer to access of members of the object 
               class, letting us define the protected variables */
-            this->length = length;
+            		this->length = length;
 			this->width = width;
 		}
 		int calculate()
